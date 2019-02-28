@@ -104,7 +104,7 @@ class TsunamiCall{
 	}
 }
 echo "#################################\n# IG : @ZAID_HTML | GITHUB : Z1011D#\n#################################\n";
-echo "#################################\n# Input VICTIM Number with country Code  #\n#################################\n"
+echo "#################################\n# Input VICTIM Number with country Code  #\n#################################\n";
 echo "Number?			";
 $no = get();
 $n = new TsunamiCall($no);
